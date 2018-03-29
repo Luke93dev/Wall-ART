@@ -400,15 +400,15 @@ header.masthead p {
 }
 
 .aboutUs__left-side {
-  background-color: #333333;
+  background-color: #1a1a1a;
   padding: 3% 5%;
-  border-left: 10px solid #262626;
-  border-right: 10px solid #262626;
+  border-left: 10px solid #0d0d0d;
+  border-right: 10px solid #0d0d0d;
 }
 
 @media (min-width: 1200px) {
   .aboutUs__left-side {
-    border: 15px solid #262626;
+    border: 15px solid #0d0d0d;
     border-right: 15px solid #99003d;
     padding-top: 0;
   }
