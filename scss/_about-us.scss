@@ -82,6 +82,8 @@
     &__left-side {
         background-color: #333333;
         padding: 3% 5%;
+        border-left:10px solid #262626;
+        border-right:10px solid #262626;
         @media (min-width: 1200px) {
             border: 15px solid #262626;
             border-right: 15px solid #99003d;
@@ -93,6 +95,8 @@
         background-color: #b30047;
         overflow: hidden!important;
         padding-top: 5%!important;
+        border-left:10px solid #99003d;
+        border-right:10px solid #99003d;
         @media (min-width: 1200px) {
             border: 15px solid #99003d;
             border-left: none;

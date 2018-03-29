@@ -3,6 +3,8 @@
     margin-top: 10%;
     background-color: $primary;
     color: white;
+    border-left:10px solid #99003d;
+    border-right:10px solid #99003d;
     @media (min-width: 576px) {
         padding-bottom:10% !important;
     }
