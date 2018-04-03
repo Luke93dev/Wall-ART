@@ -67,8 +67,13 @@ header.masthead {
         margin: 15% auto 0;
     }
     @media (min-width: 1200px) {
-        margin: 10% auto 8%;
+        margin: 12% auto 8%;
         border: 12px solid $primary;
+        padding:4%;
+    }
+    @media (min-width: 1400px) {
+        margin-top:18%;
+        width:80%;
     }
 }
 .masthead__subtitle{
